@@ -44,12 +44,13 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.JPG
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   개발자 주경덕입니다. 새로운 것에 도전하는 자세를 가지고자 노력합니다. 
   백엔드 개발자로 일하고 있지만 최근에는 프론트엔드쪽에 대해서도 관심을 가지고 React를 공부하고 있습니다. 친구들과 스터디 그룹을 구성하여 다양한 시도를 준비하고 있습니다. 현재는 홈서버를 구축하여 구성원들의 프로젝트들을 리스트화하여 포트폴리오 역할을 하는 수준으로 활용하고 있지만, 꾸준히 발전시켜 지식을 공유하고 성장할 수 있는 플랫폼으로 만들어가고자 합니다.
 
-  <mark>Java</mark> <mark>JavaScript</mark> <mark>ReactJS</mark> <mark>tailwindCSS</mark> <mark>Firebase</mark> <mark>Cloudinary</mark> <mark>Netlify</mark> <mark>Postman</mark> <mark>OZreport</mark> <mark>Docker</mark>
+  Skill List
+  <mark>Java</mark><mark>JavaScript</mark><mark>ReactJS</mark><mark>tailwindCSS</mark><mark>Firebase</mark><mark>Cloudinary</mark> <mark>Netlify</mark><mark>Postman</mark><mark>OZreport</mark><mark>Docker</mark>
 
 content:
   - title: Projects # Title for the section
@@ -64,6 +65,25 @@ content:
 
           기술 스택
           - <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>tailwindCSS</mark> <mark>OZreport</mark>
+          - layout: left
+
+        title: 중앙대학교 차세대 행정시스템 구축
+        sub_title: 개발
+        caption: 2022.02 ~ 2022.10
+        description: | # this will include new lines to allow paragraphs
+          재무, 자산, 검수 파트 화면 및 전자문서 개발
+
+          기술 스택
+          - <mark>Java</mark> <mark>JavaScript</mark> <mark>eXBuilder6</mark> <mark>Spring</mark> <mark>OZreport</mark>
+
+        title: LG U+ 개통파트 상시개발
+        sub_title: 개발
+        caption: 2021.03 ~ 2022.01
+        description: | # this will include new lines to allow paragraphs
+          대리점, 기업개통파트간 문의응답시스템 신규화면 개발 및 신규 개통프로세스 추가
+
+          기술 스택
+          - <mark>Java</mark> <mark>JavaScript</mark> <mark>websquare</mark> <mark>Spring</mark>
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
