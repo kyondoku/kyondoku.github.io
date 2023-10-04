@@ -100,7 +100,7 @@ content:
       - layout: left
         title: TOPELEVEN
         caption: 2023.09 ~
-        sub_title: https://cosmic-douhua-fa2b23.netlify.app(https://www.youtube.com/watch?v=vtg4o__aRMg)
+        link: https://cosmic-douhua-fa2b23.netlify.app
         description: | # this will include new lines to allow paragraphs
           ReactJS를 기반으로 온라인 쇼핑몰을 개발하고 있습니다. 인증 및 DB는 Firebase를 통해 관리하고 있고, 이미지는 파일서버 대신 Cloudinary를 통해 관리합니다.
 
@@ -110,7 +110,7 @@ content:
       - layout: left
         title: YOUTUBE Clone Coding
         caption: 2023.07 ~ 2023.08
-        url: [https://subtle-sable-dedd13.netlify.app](https://www.youtube.com/watch?v=vtg4o__aRMg)
+        link: https://www.youtube.com/watch?v=vtg4o__aRMg
         description: | # this will include new lines to allow paragraphs
           Youtube API를 활용한 Youtube Clone Coding 프로젝트 입니다. 로그인에 대한 인증은 Firebase를 활용하였습니다.
 
