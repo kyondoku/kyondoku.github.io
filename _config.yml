@@ -50,9 +50,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   친구들과 스터디 그룹을 구성하여 다양한 시도를 준비하고 있습니다. 현재는 홈서버를 구축하여 구성원들의 프로젝트들을 리스트화하여 포트폴리오 역할을 하는 수준으로 활용하고 있지만, 꾸준히 발전시켜 지식을 공유하고 성장할 수 있는 플랫폼으로 만들어가고자 합니다.
 
-  Skill
+  기술 스택
   - <mark>Java</mark> <mark>JavaScript</mark>
-  - <mark>ReactJS</mark> <mark>tailwindCSS</mark>
+  - <mark>Spring</mark> <mark>ReactJS</mark> <mark>tailwindCSS</mark>
   - <mark>Firebase</mark> <mark>Cloudinary</mark> <mark>Netlify</mark> <mark>Postman</mark> <mark>Docker</mark>
   - <mark>OZreport</mark>
 
@@ -65,44 +65,57 @@ content:
         sub_title: 개발
         caption: 2022.11 ~ 2023.07
         description: | # this will include new lines to allow paragraphs
-          주문, 공급파트 화면 및 전자문서 개발
+          - 주문, 공급파트 화면개발
+          - 전자문서 개발
 
-          기술 스택
-          - <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>tailwindCSS</mark> <mark>OZreport</mark>
+          - 사용 기술
+            - <mark>Java</mark> <mark>JavaScript</mark> <mark>Spring</mark> <mark>tailwindCSS</mark> <mark>OZreport</mark>
 
       - layout: left
         title: 중앙대학교 차세대 행정시스템 구축
         sub_title: 개발
         caption: 2022.02 ~ 2022.10
         description: | # this will include new lines to allow paragraphs
-          재무, 자산, 검수 파트 화면 및 전자문서 개발
+          - 산학협력단 차세대 연구행정시스템 재무, 자산, 검수 파트 화면개발
+          - 전자문서 개발
 
-          기술 스택
-          - <mark>Java</mark> <mark>JavaScript</mark> <mark>eXBuilder6</mark> <mark>Spring</mark> <mark>OZreport</mark>
+          - 사용 기술
+            - <mark>Java</mark> <mark>JavaScript</mark> <mark>eXBuilder6</mark> <mark>Spring</mark> <mark>OZreport</mark>
 
       - layout: left
-        title: LG U+ 개통파트 상시개발
+        title: LG U+ 개통파트 스쿼드 참여
         sub_title: 개발
         caption: 2021.03 ~ 2022.01
         description: | # this will include new lines to allow paragraphs
-          - 대리점, 기업개통파트간 문의응답시스템 신규화면 개발 및 신규 개통프로세스 추가
+          - 상시개발스쿼드 참여, 기업개통 WMS 유지보수 수행
+          - 대리점, 기업개통파트간 문의응답시스템 신규화면 개발
+          - 신규 개통프로세스 추가
 
-          - 기술 스택
+          - 사용 기술
             - <mark>Java</mark> <mark>JavaScript</mark> <mark>websquare</mark> <mark>Spring</mark>
 
-  - title: Education # Title for the section
+  - title: Side Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: TOPELEVEN
+        caption: 2023.09 ~
+        sub_title: https://cosmic-douhua-fa2b23.netlify.app
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          ReactJS를 기반으로 온라인 쇼핑몰을 개발하고 있습니다. 인증 및 DB는 Firebase를 통해 관리하고 있고, 이미지는 파일서버 대신 Cloudinary를 통해 관리합니다.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          사용 기술
+            - <mark>JavaScript</mark> <mark>ReactJS</mark> <mark>tailwindCSS</mark> <mark>Firebase</mark> <mark>Cloudinary</mark> <mark>Netlify</mark>
+
+      - layout: left
+        title: YOUTUBE Clone Coding
+        caption: 2023.07 ~ 2023.08
+        sub_title: https://subtle-sable-dedd13.netlify.app
+        description: | # this will include new lines to allow paragraphs
+          Youtube API를 활용한 Youtube Clone Coding 프로젝트 입니다. 로그인에 대한 인증은 Firebase를 활용하였습니다.
+
+          사용 기술
+            - <mark>JavaScript</mark> <mark>ReactJS</mark> <mark>Firebase</mark> <mark>Netlify</mark>
 
   - title: A Little More About Me
     layout: text
