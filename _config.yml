@@ -110,7 +110,7 @@ content:
       - layout: left
         title: YOUTUBE Clone Coding
         caption: 2023.07 ~ 2023.08
-        sub_title: https://subtle-sable-dedd13.netlify.app
+        url: https://subtle-sable-dedd13.netlify.app
         description: | # this will include new lines to allow paragraphs
           Youtube API를 활용한 Youtube Clone Coding 프로젝트 입니다. 로그인에 대한 인증은 Firebase를 활용하였습니다.
 
