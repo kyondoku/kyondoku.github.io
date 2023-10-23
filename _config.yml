@@ -29,7 +29,7 @@ instagram_username: kyondoku
 
 # Additional icon links
 additional_links:
-  - title: topeleven
+  - title: youniqlo
     icon: fas fa-globe
     url: https://cosmic-douhua-fa2b23.netlify.app/
 # - title: another link
@@ -98,7 +98,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: TOPELEVEN
+        title: youniqlo
         caption: 2023.09 ~
         link: https://cosmic-douhua-fa2b23.netlify.app
         description: | # this will include new lines to allow paragraphs
